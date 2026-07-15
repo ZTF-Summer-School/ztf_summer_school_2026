@@ -33,10 +33,11 @@ Every day opens with **Coffee & Pastries, 9:00–9:30 AM** and (except the Thurs
 | Time | Session |
 |------|---------|
 | 9:00–9:30 | Coffee & Pastries |
-| 9:30–12:00 | **Lecture / Activity: AppleCiDEr / Anomaly detection** (incl. Hyrax introduction) — Argyro Sasli & Felipe Fontinele Nunes |
+| 9:30–10:45 | **Lecture / Activity: AppleCiDEr / Anomaly detection** (incl. Hyrax introduction) — Argyro Sasli & Felipe Fontinele Nunes |
+| 10:45–12:00 | **Activity: Milvus vector databases & NRP SkyPortal instance** — Sneha Maharjan & Keshav Majithia |
 | 12:00–1:00 | Lunch (Chipotle) |
 | 1:00–2:30 | **Lecture: BOOM** — Thomas Culino |
-| 2:30–4:00 | **Activity: Milvus vector databases & NRP SkyPortal instance** — Sneha Maharjan |
+| 2:30–4:00 | **Lecture / Activity: Light echoes** (modeling & CNN detection) — Xiaolong Li |
 
 ## Day 4 — Thursday, July 30: ACROSS & Uncertainty Quantification
 
