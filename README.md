@@ -2,7 +2,7 @@
 
 **Week of Monday July 27 – Friday July 31, 2026**
 
-Every day opens with **Coffee & Pastries, 9:00–9:30 AM** and (except the Thursday outing) ends by **4:00 PM**. Sessions are separated by 15-minute breaks.
+Every day opens with **Coffee & Pastries, 9:00–9:30 AM** and (except the Thursday outing) ends by **4:00 PM**. Sessions are separated by 15-minute breaks. Unless otherwise noted, all in-person lectures and activities will take place in room 110 of the Physics and Nanotechnology building (PAN), located at [115 Union Street](https://maps.app.goo.gl/bXELJkzgEqr4ZTDa7). For remote participants, a Zoom link will be provided to your registered email.
 
 ---
 
