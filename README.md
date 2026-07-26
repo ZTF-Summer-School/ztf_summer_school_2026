@@ -41,7 +41,7 @@ Every day opens with **Coffee & Pastries, 9:00–9:30 AM** and (except the Thurs
 | 10:45–11:00 | Break |
 | 11:00–12:00 | **Activity: Milvus vector databases & NRP SkyPortal instance** — Sneha Maharjan & Keshav Majithia |
 | 12:00–1:00 | Lunch |
-| 1:00–2:15 | **Lecture: BOOM** — Thomas Culino |
+| 1:00–2:15 | **Activity: Anomaly detection hands-on** (AppleCiDEr, follow-on to morning) — Argyro Sasli |
 | 2:15–2:30 | Break |
 | 2:30–4:00 | **Lecture / Activity: Light echoes** (modeling & CNN detection) — Xiaolong Li |
 
