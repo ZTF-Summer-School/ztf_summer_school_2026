@@ -61,8 +61,7 @@ Every day opens with **Coffee & Pastries, 9:00–9:30 AM** and (except the Thurs
 | Time | Session |
 |------|---------|
 | 9:00–9:30 | Coffee & Pastries |
-| 9:30–10:00 | **Closing remarks** — Michael Coughlin |
-| 10:00–10:15 | Break |
-| 10:15–12:30 | **Hackathon: Hyrax** — led by Argyro Sasli |
-| 12:30–1:30 | Lunch |
-| 1:30–4:00 | **Hackathon: Hyrax** (cont.) — led by Argyro Sasli |
+| 9:30–11:45 | **Hackathon: Hyrax** — led by Argyro Sasli |
+| 11:45–12:00 | Break |
+| 12:00–12:30 | **Closing remarks** — Michael Coughlin |
+| 12:30–1:30 | Lunch — **formal close** |
