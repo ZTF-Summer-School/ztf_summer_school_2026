@@ -1,0 +1,8 @@
+torch
+onnx
+onnxscript
+onnxruntime
+numpy
+matplotlib
+jupyter
+ipykernel
